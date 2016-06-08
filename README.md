@@ -1,2 +1,2 @@
 # Greedy-Methods
-Greedy Metjods
+Greedy Methods
